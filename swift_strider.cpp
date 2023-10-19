@@ -4,8 +4,8 @@ int main()
 {
 
     // window dimensions
-    int windowHeight{512};
-    int windowWidth{380};
+    int windowHeight{1080};
+    int windowWidth{1920};
     InitWindow(windowWidth, windowHeight, "Dapper Dasher");
 
     // defining nebula and loading it's texture
